@@ -328,7 +328,7 @@ export default function Home() {
                 <AccordionPanel pb={4}>
                   <div>
                     <h1 className="font-bold">Zbob NFTs - Coming Soon!</h1>
-                    <p className="mb-2">Being a Zbob holder grants you exclusive privileges when it comes to Zbob NFTs. You'll have the advantage of:</p>
+                    <p className="mb-2">Being a Zbob holder grants you exclusive privileges when it comes to Zbob NFTs. You&apos;ll have the advantage of:</p>
                     <p className="mb-2"><span className="font-semibold">Early Access:</span> Zbob holders will be the first to know when the Zbob NFT collection launches, allowing you to secure your NFTs before anyone else.</p>
                     <p className="mb-2"><span className="font-semibold">Whitelist Priority:</span> Owning a $ZBob token puts you on the whitelist for the $ZBob NFT mint. This significantly increases your chances of acquiring one or more NFTs during the initial launch.</p>
                     <p><span className="font-semibold">Airdrop Opportunities:</span> $ZBob holders might be eligible for exclusive airdrops of Zbob NFTs, giving you a chance to receive them directly in your wallet without needing to participate in a public sale.</p>
@@ -381,11 +381,11 @@ export default function Home() {
                   <h1 className="font-semibold mb-2">Uniswap: Your Gateway to Swapping Polygon for PizzaBob</h1>
                   <p className="mb-2">Uniswap is a leading decentralized exchange (DEX) built on the Ethereum blockchain (and compatible with Polygon). It allows users to swap cryptocurrencies directly with each other, without the need for a centralized intermediary. This section will explain how you can potentially swap Polygon (MATIC) for PizzaBob (PIZZA) tokens using Uniswap.</p>
                   <h1 className="font-semibold mb-2">Important note:</h1>
-                  <p className="mb-5">While the information below provides a general overview, it's crucial to <span className="font-semibold">verify the official swap contract address for PizzaBob</span> before proceeding. Incorrect addresses could lead to a loss of funds. You can find this address on the official PizzaBob website or trusted sources.</p>
+                  <p className="mb-5">While the information below provides a general overview, it&apos;s crucial to <span className="font-semibold">verify the official swap contract address for PizzaBob</span> before proceeding. Incorrect addresses could lead to a loss of funds. You can find this address on the official PizzaBob website or trusted sources.</p>
                   <h1 className="font-semibold mb-2 text-xl">How to Swap Polygon for $ZBOB on Uniswap</h1>
                   <h1 className="mb-2">Always double-check and research before swapping:</h1>
                   <p className="mb-2">1. <span className="font-semibold">Connect Your Wallet:</span> Visit Uniswap and connect your crypto wallet (e.g., MetaMask, WalletConnect) that holds your Polygon (MATIC) tokens.</p>
-                  <p className="mb-2">2. <span className="font-semibold">Select Tokens:</span> In the swap interface, choose Polygon (MATIC) as the token you're swapping from and enter the amount you want to trade.</p>
+                  <p className="mb-2">2. <span className="font-semibold">Select Tokens:</span> In the swap interface, choose Polygon (MATIC) as the token you&apos;re swapping from and enter the amount you want to trade.</p>
                   <p className="mb-2">3. <span className="font-semibold">Find PizzaBob Contract:</span> In the &quot;To&quot; field, paste the verified PizzaBob contract address (obtained from official sources). Uniswap might automatically fetch the token details if the address is valid.</p>
                   <p className="mb-2">4. <span className="font-semibold">Preview Swap:</span> Uniswap will automatically estimate the amount of PizzaBob (PIZZA) tokens you&apos;ll receive based on the current market exchange rate and any associated fees.</p>
                   <p className="mb-2">5. <span className="font-semibold">Review and Confirm:</span> Carefully review the swap details (amount of MATIC swapped, estimated PizzaBob received, fees) before confirming the transaction.</p>
