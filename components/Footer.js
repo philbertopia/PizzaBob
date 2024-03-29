@@ -12,8 +12,8 @@ const Footer = () => {
       <div className=" w-full flex justify-center gap-8 mb-10">
         <Link href="/"><Image src="/images/twitter.png" alt="Twitter button" width={50} height={50} /></Link>
         <Link href="/"><Image src="/images/telegram.png" alt="Telegram button" width={50} height={50} /></Link>
-        <Link href="/"><Image src="/images/telegram.png" alt="Telegram button" width={50} height={50} /></Link>
-        <Link href="/"><Image src="/images/telegram.png" alt="Telegram button" width={50} height={50} /></Link>
+        <Link href="/"><Image src="/images/polygon-button.png" alt="Polygon button" width={50} height={50} /></Link>
+        <Link href="/"><Image src="/images/uniswap-button.png" alt="Uniswap button" width={50} height={50} /></Link>
       </div>
       <div>
         <p className='flex justify-center'>PizzaBob 2024</p>
